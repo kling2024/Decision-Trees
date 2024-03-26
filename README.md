@@ -133,7 +133,7 @@ compute_entropy_test(compute_entropy)
     Entropy at root node:  1.0
     All tests passed. 
     
-Here, the reuslt is All tests passed.
+Here, the result is All tests passed.
 
 ### Split dataset
 
@@ -240,7 +240,7 @@ split_dataset_test(split_dataset)
     All tests passed.
 ```
 
-Here, the reuslt is All tests passed.
+Here, the result is All tests passed.
 
 
 
@@ -321,7 +321,7 @@ compute_information_gain_test(compute_information_gain)
     Information Gain from splitting the root on solitary:  0.2780719051126377
     All tests passed.
 
-Here, the reuslt is All tests passed. Splitting on "Solitary" (feature = 2) at the root node gives the maximum information gain. Therefore, it's the best feature to split on at the root node.
+Here, the result is All tests passed. Splitting on "Solitary" (feature = 2) at the root node gives the maximum information gain. Therefore, it's the best feature to split on at the root node.
 
 
 ### Get best split
@@ -380,7 +380,7 @@ get_best_split_test(get_best_split)
     All tests passed.
 
 
-Here, the reuslt is All tests passed. As we saw above, the function returns that the best feature to split on at the root node is feature 2 ("Solitary").
+Here, the result is All tests passed. As we saw above, the function returns that the best feature to split on at the root node is feature 2 ("Solitary").
 
 ## Building the tree
 
