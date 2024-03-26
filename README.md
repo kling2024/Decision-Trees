@@ -62,7 +62,7 @@ Therefore, `X_train` contains three features for each example: 1) Brown Color (A
 X_train = np.array([[1,1,1],[1,0,1],[1,0,0],[1,0,0],[1,1,1],[0,1,1],[0,0,0],[1,0,1],[0,1,0],[1,0,0]])
 y_train = np.array([1,1,0,0,1,0,0,1,1,0])
 ```
-The shape of X_train is: (10, 3), the shape of y_train is:  (10,), and number of training examples (m): 10
+The shape of Xtrain is: (10, 3), the shape of Ytrain is: (10,), and number of training examples (m): 10
 
 
 ## Decision Tree
