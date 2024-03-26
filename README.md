@@ -300,7 +300,7 @@ def compute_information_gain(X, y, node_indices, feature):
     return information_gain
 ```
 
-Tehn I checked my implementation using the cell below and calculate what the information gain would be from splitting on each of the featues.
+Then I checked my implementation using the cell below and calculate what the information gain would be from splitting on each of the featues.
 
 ```python
 info_gain0 = compute_information_gain(X_train, y_train, root_indices, feature=0)
