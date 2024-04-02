@@ -441,9 +441,4 @@ build_tree_recursive(X_train, y_train, root_indices, "Root", max_depth=2, curren
       -- Left leaf node with indices [8]
       -- Right leaf node with indices [2, 3, 6, 9]
       
-# GitHub and Mediumd
-
-**GitHub Link** [**here**](https://github.com/kling2024?tab=repositories)
-
-**Medium Link** [**here**](https://medium.com/@kling_7476)
 
